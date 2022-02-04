@@ -7,9 +7,6 @@
  ## Description
 This is an Angular CLI application that allows a user to enter a Github username into a form, and search. version 11.2.6.
 
-## Live page
-
-
 ## BDD
 
 * Search for a github username.
@@ -40,7 +37,6 @@ $git clone https://github.com/Ag-nes/git-search
 * CSS
 * Bootstrap
 * Typescript
-* Generated with Angular CLI version 11.2.6.
 
 ## Known Bugs
 
