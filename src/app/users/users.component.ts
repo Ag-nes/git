@@ -37,7 +37,7 @@ export class UsersComponent implements OnInit {
       this.profile=res;
     }, error => {
       this.profile=error;
-      document.getElementById('name').style.color="blur";
+      document.getElementById('name').style.color="blue";
     });
 
     this.dataService.getRepos().subscribe(repo => {
